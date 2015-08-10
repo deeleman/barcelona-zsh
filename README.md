@@ -1,13 +1,15 @@
 # Barcelona for iTerm2 and ZSH
-Barcelona is my personal color theme for ZSH, based on a fork of [Cobalt2](https://github.com/wesbos/Cobalt2-iterm) leveraging [Agnoster](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/agnoster.zsh-theme) as the foundation for the prompt layout for ZSH and [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh).
+Barcelona is my personal color theme for ZSH, based on a fork of [Cobalt2](https://github.com/wesbos/Cobalt2-iterm) leveraging [Agnoster](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/agnoster.zsh-theme) as the foundation for the prompt layout of ZSH and [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh).
 
-This theme is intended for my personal use and therefore in an ongoing work-in-progress.
+This theme is intended for my personal use only and therefore is an ongoing work-in-progress provided *as is*.
+
+<img width="969" alt="Screenshot" src="https://cloud.githubusercontent.com/assets/1104146/9185601/7d40ff7c-3fbd-11e5-9144-f027f9d2f456.png">
 
 ## Installation
 
 ##### 1. Copy `barcelona.zsh-theme` into the `~/.oh-my-zsh/themes`
 
-```bash
+```shell
 $ cp ./barcelona.zsh-theme ~/.oh-my-zsh/themes/
 ```
 ##### 2. Open up your ZSH preferences at `~/.zshrc` and change the theme variable to `ZSH_THEME="barcelona"`.
