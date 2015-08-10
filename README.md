@@ -1,5 +1,5 @@
 # Barcelona for iTerm2 and ZSH
-Barcelona is my personal color theme for ZSH, based on a fork of [Cobalt2](https://github.com/wesbos/Cobalt2-iterm) leveraging [Agnoster](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/agnoster.zsh-theme) as the foundation for the prompt layout of ZSH and [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh).
+*Barcelona* is my personal color theme for ZSH, based on a fork of [Cobalt2](https://github.com/wesbos/Cobalt2-iterm) leveraging [Agnoster](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/agnoster.zsh-theme) as the foundation for the prompt layout of ZSH and [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh).
 
 This theme is intended for my personal use only and therefore is an ongoing work-in-progress provided *as is*.
 
